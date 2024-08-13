@@ -22,6 +22,7 @@ export const menuContainer = css`
     cursor: pointer;
     &:active {
         box-shadow: 0px 0px 3px #00000055 inset;
+        // inset 쉐도어를 안쪽으로 바꿔주는 명령어
     }
 `;
 
